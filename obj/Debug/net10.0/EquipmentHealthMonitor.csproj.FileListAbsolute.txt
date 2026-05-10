@@ -1,0 +1,14 @@
+C:\Users\asus\EquipmentHealthMonitor\bin\Debug\net10.0\EquipmentHealthMonitor.exe
+C:\Users\asus\EquipmentHealthMonitor\bin\Debug\net10.0\EquipmentHealthMonitor.deps.json
+C:\Users\asus\EquipmentHealthMonitor\bin\Debug\net10.0\EquipmentHealthMonitor.runtimeconfig.json
+C:\Users\asus\EquipmentHealthMonitor\bin\Debug\net10.0\EquipmentHealthMonitor.dll
+C:\Users\asus\EquipmentHealthMonitor\bin\Debug\net10.0\EquipmentHealthMonitor.pdb
+C:\Users\asus\EquipmentHealthMonitor\obj\Debug\net10.0\EquipmentHealthMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\EquipmentHealthMonitor\obj\Debug\net10.0\EquipmentHealthMonitor.AssemblyInfoInputs.cache
+C:\Users\asus\EquipmentHealthMonitor\obj\Debug\net10.0\EquipmentHealthMonitor.AssemblyInfo.cs
+C:\Users\asus\EquipmentHealthMonitor\obj\Debug\net10.0\EquipmentHealthMonitor.csproj.CoreCompileInputs.cache
+C:\Users\asus\EquipmentHealthMonitor\obj\Debug\net10.0\EquipmentHealthMonitor.dll
+C:\Users\asus\EquipmentHealthMonitor\obj\Debug\net10.0\refint\EquipmentHealthMonitor.dll
+C:\Users\asus\EquipmentHealthMonitor\obj\Debug\net10.0\EquipmentHealthMonitor.pdb
+C:\Users\asus\EquipmentHealthMonitor\obj\Debug\net10.0\EquipmentHealthMonitor.genruntimeconfig.cache
+C:\Users\asus\EquipmentHealthMonitor\obj\Debug\net10.0\ref\EquipmentHealthMonitor.dll
