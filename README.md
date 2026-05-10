@@ -13,18 +13,6 @@ aerospace and power systems engineering.
 - Easily extensible threshold configuration
 - Timestamped health reports
 
-## How to Run
-
-### Prerequisites
-- .NET 6.0 SDK or higher
-
-### Steps
-```bash
-git clone https://github.com/YOUR_USERNAME/equipment-health-monitor
-cd equipment-health-monitor
-dotnet run
-```
-
 ## Sample Output
 ```
 ╔══════════════════════════════════════╗
